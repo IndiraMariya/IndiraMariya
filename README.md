@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IndiraMariya
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Python, C, Java
+- 👀 I’m interested in CTF, Graphics, Networking.
+- 🌱 I’m currently learning C, Networking, Bash Scripting.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: indira.mariya@gmail.com
 
