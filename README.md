@@ -1,15 +1,15 @@
 # Hi! I'm Indira Mariya
 
-EDUCATION
-UC Santa Cruz — B.S. Computer Science & Applied Math
+### Education
+**UC Santa Cruz** — B.S. Computer Science & Applied Mathematics
 
-WHAT I DO
-I build across machine learning, hardware, and the web
+### What I Do
+I build across machine learning, embedded hardware, and the web.
 
-LOOKING FOR
-Software & ML internships
+### Looking For
+Software engineering & machine learning / deep learning internships
 
-CONNECT
-GitHub      github.com/IndiraMariya
-LinkedIn    linkedin.com/in/indira-m
-Website     indiramariya.github.io
+### Connect
+- **GitHub** — [github.com/IndiraMariya](https://github.com/IndiraMariya)
+- **LinkedIn** — [linkedin.com/in/indira-m](https://www.linkedin.com/in/indira-m)
+- **Website** — [indiramariya.github.io](https://indiramariya.github.io)
